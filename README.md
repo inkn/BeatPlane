@@ -1,2 +1,2 @@
 # BeatPlane
-2Dgame Demo
+2D game Demo
